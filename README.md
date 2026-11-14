@@ -1,2 +1,1 @@
-# ADAH
-My game!
+Hello and thank you for downloading my game, developed by stef productions! I would like to inform you that the questions are in greek in V1.0, but soon enough I shall update it into supporting multi-language. There may be a few bug (especially with the sfx so I would really appreciate if you sent an email at: 8businesswthyou@gmail.com, directly in order for it to be fixed as soon as possible). Again, thank you for taking the time to read this, enjoy! 
